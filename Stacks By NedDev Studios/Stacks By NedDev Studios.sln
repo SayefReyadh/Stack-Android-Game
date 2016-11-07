@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{626A30A7-21F7-FBF6-01A8-A938A1D2C5D6}") = "Stacks By NedDev Studios", "Assembly-CSharp.csproj", "{CEA4261C-55DB-070E-3804-323C93B9B483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEA4261C-55DB-070E-3804-323C93B9B483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA4261C-55DB-070E-3804-323C93B9B483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA4261C-55DB-070E-3804-323C93B9B483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA4261C-55DB-070E-3804-323C93B9B483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
