@@ -5,7 +5,7 @@ Replicate of one of the most addictive game in Android platform "Stack" using ba
 Youtube Link: https://youtu.be/z5-NJJ1VTCY
 
 Authors:
-Sayef Reyadh Khan https://fb.me/Sayef.Reyadh.Khan sayef.reyadh@gmail.com
+Sayef Reyadh Khan https://fb.me/Sayef.Reyadh.Khan
 Language : C#
 Game Engine : Unity3D
 Platform : Android
